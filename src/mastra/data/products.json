@@ -1,0 +1,183 @@
+[
+  {
+    "id": "laptop-001",
+    "name": "MacBook Air M2",
+    "description": "13-inch laptop with Apple M2 chip, 8GB RAM, 256GB SSD. Perfect for everyday tasks and creative work.",
+    "price": 999.99,
+    "category": "electronics",
+    "stock": 15,
+    "imageUrl": "https://example.com/macbook-air.jpg"
+  },
+  {
+    "id": "laptop-002",
+    "name": "Dell XPS 13",
+    "description": "13.4-inch FHD+ laptop, Intel i7, 16GB RAM, 512GB SSD. Premium ultrabook for professionals.",
+    "price": 1299.99,
+    "category": "electronics",
+    "stock": 8,
+    "imageUrl": "https://example.com/dell-xps.jpg"
+  },
+  {
+    "id": "laptop-003",
+    "name": "HP Pavilion 15",
+    "description": "15.6-inch laptop, AMD Ryzen 5, 8GB RAM, 512GB SSD. Great value for students and home use.",
+    "price": 649.99,
+    "category": "electronics",
+    "stock": 20,
+    "imageUrl": "https://example.com/hp-pavilion.jpg"
+  },
+  {
+    "id": "phone-001",
+    "name": "iPhone 15 Pro",
+    "description": "6.1-inch smartphone with A17 Pro chip, 128GB storage, titanium design, and pro camera system.",
+    "price": 999.00,
+    "category": "electronics",
+    "stock": 25,
+    "imageUrl": "https://example.com/iphone-15-pro.jpg"
+  },
+  {
+    "id": "phone-002",
+    "name": "Samsung Galaxy S24",
+    "description": "6.2-inch AMOLED display, Snapdragon 8 Gen 3, 256GB storage, AI-powered photography.",
+    "price": 899.99,
+    "category": "electronics",
+    "stock": 18,
+    "imageUrl": "https://example.com/galaxy-s24.jpg"
+  },
+  {
+    "id": "headphones-001",
+    "name": "Sony WH-1000XM5",
+    "description": "Premium noise-canceling wireless headphones with 30-hour battery life and exceptional sound quality.",
+    "price": 399.99,
+    "category": "electronics",
+    "stock": 30,
+    "imageUrl": "https://example.com/sony-headphones.jpg"
+  },
+  {
+    "id": "headphones-002",
+    "name": "AirPods Pro 2",
+    "description": "Active noise cancellation, adaptive transparency, personalized spatial audio with USB-C charging.",
+    "price": 249.00,
+    "category": "electronics",
+    "stock": 40,
+    "imageUrl": "https://example.com/airpods-pro.jpg"
+  },
+  {
+    "id": "watch-001",
+    "name": "Apple Watch Series 9",
+    "description": "Smart watch with advanced health monitoring, fitness tracking, and always-on retina display.",
+    "price": 399.00,
+    "category": "electronics",
+    "stock": 22,
+    "imageUrl": "https://example.com/apple-watch.jpg"
+  },
+  {
+    "id": "tshirt-001",
+    "name": "Classic Cotton T-Shirt",
+    "description": "100% organic cotton, comfortable fit, available in multiple colors. Perfect for everyday wear.",
+    "price": 29.99,
+    "category": "clothing",
+    "stock": 100,
+    "imageUrl": "https://example.com/tshirt.jpg"
+  },
+  {
+    "id": "tshirt-002",
+    "name": "Premium Polo Shirt",
+    "description": "Classic polo shirt made from breathable cotton blend. Business casual style.",
+    "price": 49.99,
+    "category": "clothing",
+    "stock": 75,
+    "imageUrl": "https://example.com/polo.jpg"
+  },
+  {
+    "id": "jeans-001",
+    "name": "Slim Fit Jeans",
+    "description": "Modern slim fit denim jeans with stretch for comfort. Classic blue wash.",
+    "price": 79.99,
+    "category": "clothing",
+    "stock": 60,
+    "imageUrl": "https://example.com/jeans.jpg"
+  },
+  {
+    "id": "jacket-001",
+    "name": "Waterproof Rain Jacket",
+    "description": "Lightweight, packable rain jacket with hood. Perfect for outdoor activities.",
+    "price": 89.99,
+    "category": "clothing",
+    "stock": 35,
+    "imageUrl": "https://example.com/rain-jacket.jpg"
+  },
+  {
+    "id": "book-001",
+    "name": "The Art of Programming",
+    "description": "Comprehensive guide to modern software development practices and design patterns.",
+    "price": 49.99,
+    "category": "books",
+    "stock": 50,
+    "imageUrl": "https://example.com/programming-book.jpg"
+  },
+  {
+    "id": "book-002",
+    "name": "AI for Everyone",
+    "description": "Non-technical introduction to artificial intelligence and machine learning concepts.",
+    "price": 34.99,
+    "category": "books",
+    "stock": 45,
+    "imageUrl": "https://example.com/ai-book.jpg"
+  },
+  {
+    "id": "book-003",
+    "name": "The Startup Playbook",
+    "description": "Essential guide for entrepreneurs building and scaling successful startups.",
+    "price": 29.99,
+    "category": "books",
+    "stock": 38,
+    "imageUrl": "https://example.com/startup-book.jpg"
+  },
+  {
+    "id": "tablet-001",
+    "name": "iPad Air",
+    "description": "10.9-inch Liquid Retina display, M1 chip, 64GB storage. Perfect for creativity and productivity.",
+    "price": 599.00,
+    "category": "electronics",
+    "stock": 12,
+    "imageUrl": "https://example.com/ipad-air.jpg"
+  },
+  {
+    "id": "keyboard-001",
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with brown switches. Programmable keys and media controls.",
+    "price": 129.99,
+    "category": "electronics",
+    "stock": 28,
+    "imageUrl": "https://example.com/keyboard.jpg"
+  },
+  {
+    "id": "mouse-001",
+    "name": "Wireless Ergonomic Mouse",
+    "description": "Comfortable ergonomic design with precision tracking. Works on any surface.",
+    "price": 49.99,
+    "category": "electronics",
+    "stock": 55,
+    "imageUrl": "https://example.com/mouse.jpg"
+  },
+  {
+    "id": "backpack-001",
+    "name": "Tech Backpack",
+    "description": "Water-resistant backpack with laptop compartment, USB charging port, and multiple pockets.",
+    "price": 69.99,
+    "category": "accessories",
+    "stock": 42,
+    "imageUrl": "https://example.com/backpack.jpg"
+  },
+  {
+    "id": "shoes-001",
+    "name": "Running Sneakers",
+    "description": "Lightweight running shoes with cushioned sole and breathable mesh upper.",
+    "price": 119.99,
+    "category": "clothing",
+    "stock": 50,
+    "imageUrl": "https://example.com/sneakers.jpg"
+  }
+]
+
